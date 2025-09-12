@@ -1,4 +1,4 @@
-# ecommerce-analytics-projec
+# ecommerce-analytics-project
 # E-Commerce Deep Dive: Amazon Sales Performance  
 
 ## Project Overview  
