@@ -17,7 +17,7 @@ The analysis can help in:
 ---
 
 ## Dataset  
-- File: AmazonSalesReport.csv  
+- File: AmazonSalesReport.csv  , Data link: https://www.kaggle.com/datasets/arpit2712/amazonsalesreport/data
 - Size: 129,000 rows × 21 columns  
 - Source: Kaggle  
 
@@ -54,6 +54,9 @@ I built a dashboard in Looker Studio with 3 main parts:
 - Sales analysis  
 - Customer preferences  
 - Inventory management  
+
+Explore the interactive dashboard here:  
+👉 [Amazon Sales Performance Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/9cfa522e-d0ad-415b-b715-fe228c351374) 
 
 ---
 
